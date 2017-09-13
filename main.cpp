@@ -5,6 +5,7 @@
 //#include <malloc.h>
 
 #include <fstream>
+#include <hdf5.h>
 
 int main()
 {
